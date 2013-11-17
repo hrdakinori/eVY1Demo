@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eVY1 Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="a">a</string>
+    <string name="i">i</string>
+    <string name="u">u</string>
+    <string name="e">e</string>
+    <string name="o">o</string>
+
+    <string name="k">k</string>
+    <string name="s">s</string>
+    <string name="t">t</string>
+    <string name="n">n</string>
+    <string name="h">h</string>
+    <string name="m">m</string>
+    <string name="y">y</string>
+    <string name="r">r</string>
+    <string name="w">w</string>
+
+    <string name="g">g</string>
+    <string name="z">z</string>
+    <string name="d">d</string>
+    <string name="b">b</string>
+    <string name="p">p</string>
+    
+</resources>
